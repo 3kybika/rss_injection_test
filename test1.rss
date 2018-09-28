@@ -1,0 +1,22 @@
+  <?xml version="1.0" encoding="windows-1251" ?> 
+ <rss version="2.0">
+ <channel>
+  <title>3DNews: Новости Hardware</title> 
+  <link>http://3dnews.ru/news/</link> 
+  <description>3DNews: Новости Hardware</description> 
+ <image>
+  <title>3Dnews Daily Digital Digest</title> 
+  <url>http://www.3dnews.ru/i/3dn.gif</url> 
+  <link>http://www.3dnews.ru</link> 
+  </image>
+ <item>
+  <title>Panasonic BL-PA100 уже на рынке</title> 
+  <link>http://3dnews.ru/news/panasonic-187697/</link> 
+  <description>Компания Panasonic представила Ethernet-адаптер,
+  основной особенностью которого является возможность организовать
+  Ethernet-сеть через обычную электропроводку. 
+  В BL-PA100 ...</description> 
+  <pubDate>Wed, 15 Nov 2006 13:00:00 +0300</pubDate> 
+  </item>
+  </channel>
+  </rss>
